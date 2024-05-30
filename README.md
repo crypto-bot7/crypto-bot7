@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-bot7&theme=tokyonight&count_private=true)](https://github.com/crypto-bot7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-bot7&theme=tokyonight&count_private=true&layout=compact&langs_count=8)](https://github.com/crypto-bot7)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crypto-bot7&count_private=true&show_icons=true&theme=tokyonight)
 
